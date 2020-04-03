@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-office-seat": {
+      "hosting": {
+        "my-office-seat": [
+          "my-office-seat"
+        ]
+      }
+    }
+  }
+}
